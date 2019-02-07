@@ -1,0 +1,28 @@
+<!ELEMENT GaranceCV (background)>
+<!ELEMENT background (Contact, Maintitle, Formation, Langues, Informatique, Associations, Loisirs)>
+<!ELEMENT Contact (id, age, adresse, postcode, num, mail, vehicule)>
+<!ELEMENT Maintitle (#PCDATA)>
+<!ELEMENT Formation (titre, formation+)>
+<!ELEMENT formation (date, form, lieu)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT form (#PCDATA)>
+<!ELEMENT lieu (#PCDATA)>
+<!ELEMENT Langues (titre, langue+)>
+<!ELEMENT Informatique (titre, info+)>
+<!ELEMENT Associations (titre, asso, lieu, tache+)>
+<!ELEMENT Loisirs (titre, loisir+)>
+<!ELEMENT loisir (nom, spec)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT spec (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT adresse (#PCDATA)>
+<!ELEMENT postcode (#PCDATA)>
+<!ELEMENT num (#PCDATA)>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT vehicule (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT langue (#PCDATA)>
+<!ELEMENT info (#PCDATA)>
+<!ELEMENT asso (#PCDATA)>
+<!ELEMENT tache (#PCDATA)>

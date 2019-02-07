@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GaranceCV SYSTEM "Casalis_CV.dtd">
+<?xml-stylesheet type="text/xsl" href="Casalis_CV.xsl"?>
+
+<GaranceCV>
+	<background>
+		<Contact>
+			<id>Garance CASALIS-DABROWSKI</id>
+			<age>23 ans</age>			
+			<adresse>93, avenue du Général Leclerc</adresse>
+			<postcode>75014 Paris</postcode>
+			<num>06 42 73 79 36</num>
+			<mail>g.casalis@outlook.fr</mail>
+			<vehicule>Véhiculée</vehicule>
+		</Contact>
+
+		<Maintitle>Curriculum Vitae</Maintitle>
+		<Formation>
+			<titre>Formation</titre>
+			<formation>
+				<date>2016 - 2018</date>
+				<form>Master LPL Langue et Informatique</form>
+				<lieu>Université Paris IV Sorbonne</lieu>
+			</formation>
+			<formation>
+				<date>2014 - 2016</date>
+				<form>Obtention d'un Master d'anglais LLCE (option linguisitque)</form>
+				<lieu>Paris IV</lieu>
+			</formation>
+			<formation>
+				<date>2014 - 2015</date>
+				<form>Année Erasmus</form>
+				<lieu>Oxford University</lieu>
+			</formation>
+			<formation>
+				<date>2011 - 2014</date>
+				<form>Obtention d'une licence d'anglais LLCE</form>
+				<lieu>Paris IV</lieu>
+			</formation>
+			<formation>
+				<date>Sept 2011 - juin 2013</date>
+				<form>prépa littéraire</form>
+				<lieu>lycée Jean Jaurès, Reims</lieu>
+			</formation>
+			<formation>
+				<date>2011</date>
+				<form>Obtention d'un bac Littéraire mention bien</form>
+				<lieu>Reims</lieu>
+			</formation>
+		</Formation>
+		<Langues>
+			<titre>Langues</titre>
+			<langue> anglais avancé </langue>
+			<langue> allemand intermédiaire </langue> 
+			<langue> espagnol, italien et mandarin débutant </langue>
+		</Langues>
+		<Informatique>
+			<titre>Informatique</titre>
+			<inform>Bureautique : Maitrise du pack office (word, excel, powerpoint)</inform>
+			<inform>Maitrise courante de Photoshop</inform>
+			<inform>Maitrise partielle de Html, Xml, Css, DTD, Xslt, Python, java</inform>
+			<inform>Maitrise courante de TXM</inform>
+		</Informatique>
+		<Associations>
+			<titre>Associations</titre>
+			<asso> Disabled Student's officer </asso>
+			<lieu>St John's College, Oxford University</lieu>
+			<tache>-Organisation de groupes de parole</tache>
+			<tache>-mise en place de solutions pour améliorer les conditions de vie des personnes handicapées au sein du college</tache>
+			<tache>-utilisation des réseaux sociaux pour faire connaître les événements à venir</tache>
+		</Associations>
+		<Loisirs>
+			<titre>Centres d'intérêt</titre>
+			<loisir>
+				<nom>Mode et maquillage</nom>
+				<spec> Anna Wintour, Mary Greenwell, Lisa Eldridge lecture fréquente de magazines et blogs de mode </spec>
+			</loisir>
+			<loisir>
+				<nom>Lecture</nom>
+				<spec>oeuvres de Diderot, Mirbeau, Racine, Sarah Kane</spec>
+			</loisir>
+			<loisir>
+				<nom>Art</nom>
+				<spec>oeuvres de Magritte, d'Andy Warhol, Bacon</spec>
+			</loisir>
+			<loisir>
+				<nom>Culture</nom>
+				<spec>opéra (Il Trivatore, Verdi), Théâtre (L'éveil du Printemps, 4.48 Psychose)</spec>
+			</loisir>
+			<loisir>
+				<nom>Voyages</nom>
+				<spec>Suisse, Angleterre, Allemagne, Espagne, Belgique, Luxembourg</spec>
+			</loisir>
+			<loisir>
+				<nom>Sport</nom>
+				<spec>fitness</spec>
+			</loisir>
+		</Loisirs>
+	</background>
+</GaranceCV>

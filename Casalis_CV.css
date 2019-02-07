@@ -1,0 +1,94 @@
+BODY{
+background-color : #A0CBC5;
+display : block;
+margin-top : 10%;
+margin-right: 15%;
+margin-left: 15%;
+margin-bottom: 10%;
+border-style : solid;
+border-width: 6px;
+border-color: grey;
+}
+
+background{
+padding-top: 2cm;
+padding-bottom:2cm;
+background-color: white;
+display: block;
+background-image: url("garance.gif");    
+background-size: 180px 250px;
+background-repeat: no-repeat;
+background-position: 90% 3%;
+}
+
+Contact{
+display: block;
+padding-bottom: 130pt;
+text-indent: 90px;
+}
+
+cont {
+display : block;
+font-size: 22px;
+font-family: sans-serif;
+}
+
+
+
+Maintitle{
+color: #12053E;
+text-decoration: underline;
+font-size: 50pt;
+font-family: arial;
+font-weight: bold;
+text-align: center;
+display: block;
+padding-bottom: 22pt;
+}
+
+
+titre{
+color: black;
+font-size: 30pt;
+font-family: arial;
+font-weight: bold;
+text-decoration: underline;
+display: block;
+padding-top: 15pt;
+padding-bottom: 5pt;
+text-indent: 10px;
+}
+
+
+borne{
+display: block;
+margin-bottom: 10pt;
+}
+
+date{
+font-size: 22pt;
+font-family: arial;
+font-weight: bold;
+text-indent: 40px;
+display : block;
+margin-top: 10pt;
+}
+
+
+texte{
+font-family: sans-serif;
+display : block;
+font-size: 22px;
+text-indent: 70px;
+margin-bottom: 3pt;
+}
+
+
+nom{
+font-weight: bold;
+display : block;
+text-indent : 70px;
+font-size: 22pt;
+font-family: arial;
+}
+
